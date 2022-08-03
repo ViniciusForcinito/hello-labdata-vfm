@@ -26,4 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'ViniciusForcinito',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_vfm\\greetings': { 'hello_labdata_vfm\\greetings.hello': 'https://ViniciusForcinito.github.io/hello_labdata_vfm/hello_labdata_vfm\\greetings.html#hello'}}}
+  'syms': { 'hello_labdata_vfm\\greetings': { 'hello_labdata_vfm\\greetings.hello': 'https://ViniciusForcinito.github.io/hello_labdata_vfm/hello_labdata_vfm\\greetings.html#hello'},
+            'hello_labdata_vfm\\jokes': { 'hello_labdata_vfm\\jokes.qual_time_nao_tem_mundial': 'https://ViniciusForcinito.github.io/hello_labdata_vfm/hello_labdata_vfm\\jokes.html#qual_time_nao_tem_mundial'}}}

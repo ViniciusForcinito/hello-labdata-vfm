@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - 00_greetings.ipynb
+      - 01_jokes.ipynb
