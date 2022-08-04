@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "Greeting",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\nComo utilizar:\n\nhello(to=\"Vinicius\")\n\n'Hi Vinicius!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello-labdata-vfm",
+    "section": "",
+    "text": "pip install hello_labdata_vfm"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello-labdata-vfm",
+    "section": "How to use",
+    "text": "How to use\nUse esse pacote para cumprimentar as pessoas:\n\nhello(to='Maria')\n\n'Hi Maria!'"
+  },
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "qual_time_nao_tem_mundial\n\n qual_time_nao_tem_mundial ()\n\nComo utilizar:\n\nqual_time_nao_tem_mundial()\n\n'Palmeiras'"
+  }
+]
